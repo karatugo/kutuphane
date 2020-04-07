@@ -10,6 +10,7 @@ autopep8 = "*"
 django = "==2.2.6"
 djangorestframework = "==3.10.3"
 gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.6"
